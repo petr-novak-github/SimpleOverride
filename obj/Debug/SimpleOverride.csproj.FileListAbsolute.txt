@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\06-SimpleOverride\stuff\stuff\SimpleOverride\bin\Debug\SimpleOverride.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\06-SimpleOverride\stuff\stuff\SimpleOverride\bin\Debug\SimpleOverride.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\06-SimpleOverride\stuff\stuff\SimpleOverride\bin\Debug\SimpleOverride.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\06-SimpleOverride\stuff\stuff\SimpleOverride\obj\Debug\SimpleOverride.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\06-SimpleOverride\stuff\stuff\SimpleOverride\obj\Debug\SimpleOverride.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\06-SimpleOverride\stuff\stuff\SimpleOverride\obj\Debug\SimpleOverride.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\05-ucim-se-2021-02-02\06-SimpleOverride\stuff\stuff\SimpleOverride\obj\Debug\SimpleOverride.pdb
